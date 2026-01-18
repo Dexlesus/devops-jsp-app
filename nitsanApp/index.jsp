@@ -14,6 +14,7 @@
 <!-- Input Text Box -->
 <label>Enter your name:</label>
 <input type="text" id="username" />
+<input type="password" id="kaki" />
 
 <br><br>
 
